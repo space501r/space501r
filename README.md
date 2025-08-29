@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 👋 Hi there! I'm [Your Name] — Computer Engineer | AI & Web Technology Enthusiast
+### 👋 Hi there! I'm space501 — Computer Engineer | AI & Web Technology Enthusiast
 
 I'm a Computer Engineer from Pune, India 🇮🇳.  
 I have an ever-curious mind for **innovation**, **technology**, and how things work behind the scenes.
