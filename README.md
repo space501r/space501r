@@ -11,28 +11,28 @@ I have an ever-curious mind for **innovation**, **technology**, and how things w
 - 🎓 Computer Engineering graduate from Pune
 - 💡 Passionate about **AI**, **Web Technologies**, and solving real-world problems with code
 - 🧠 I believe in **"knowing a little of everything"** — learning never stops!
-- 🌐 Building full-stack applications, exploring ML models, and staying up-to-date with tech trends
+- 🌐 Building full-stack web-applications, exploring AI models, and staying up-to-date with tech trends
 
 ---
 
 ### 🛠️ Skills & Interests
 
 - **Languages**: Python, JavaScript, HTML, CSS, C++
-- **AI/ML**: TensorFlow, Scikit-learn, OpenCV, NLP, Generative AI
-- **Web Tech**: React.js, Node.js, Express, MongoDB, Firebase, REST APIs
-- **Tools**: Git & GitHub, VSCode, Postman, Docker (basics)
+- **AI/ML**: OpenCV, NLP, Generative AI
+- **Web Tech**: Node.js 
+- **Tools**: Git & GitHub, VSCode
 
 ---
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio/Website](https://yourwebsite.com) *(if any)*  
+- 🔗  
+- 🌐 [Portfolio/Website](https://space501r.github.io)
 - 📨 Drop a message or connect on GitHub!
 
 ---
 
-> *“Curiosity is the wick in the candle of learning.”* — William Arthur Ward  
+> *“Impossible is the word found in the Dictionary of Fools”* — Napoleon  
 > I aim to stay curious, keep building, and never stop exploring!
 
 
